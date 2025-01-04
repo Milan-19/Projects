@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+}
+h1{
+    font-size: 80px;
+}
+input{
+    border: 3px solid black;
+}
+button{
+    border: 3px solid black;
+    width: 80px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+}
