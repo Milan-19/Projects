@@ -28,11 +28,4 @@ Thumbs.db
 # Build files
 dist/
 build/
-coverage/
-
-# Generated content
-upload/
-reports/
-
-# Generated PDFs
-*.pdf
+coverage/ 
